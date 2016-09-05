@@ -11,5 +11,5 @@ deploy:
   function_name: "lambda-test"
   role: "arn:aws:iam::609459096019:role/service-role/radradradScraper"
   handler_name: "lambdatest.lambda_handler"
-  access_key_id: "AKIAID4OY7CSRFAZBOQA"
-  secret_access_key: "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"
+  access_key_id: ""
+  secret_access_key: ""
